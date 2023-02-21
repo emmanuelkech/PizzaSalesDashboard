@@ -1,8 +1,8 @@
 # PizzaSalesDashboard
 
-Topic: Pizza Sales Dashboard
-Data Source:Quantum Analytics NG
-Data Visualization Tool: Microsoft Power BI
+Topic: Pizza Sales Dashboard <br/>
+Data Source:Quantum Analytics NG <br/>
+Data Visualization Tool: Microsoft Power BI <br/>
 
 Insights Generated:
 1. Total Revenue
