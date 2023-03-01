@@ -4,9 +4,9 @@ Topic: Pizza Sales Dashboard <br/>
 Data Source:Quantum Analytics NG <br/>
 Data Visualization Tool: Microsoft Power BI <br/>
 
-##Goal
-##Business Use Case
-##Data Exploration and Analysis
+## Goal
+## Business Use Case
+## Data Exploration and Analysis
 
 Insights Generated:
 1. Total Revenue
