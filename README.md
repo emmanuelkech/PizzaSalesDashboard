@@ -1,15 +1,16 @@
 # Pizza Sales Analysis
 
-## About This Project
 **Data Source:** *Quantum Analytics NG* <br/>
 **Data Visualization Tool:** *Microsoft Power BI* <br/>
 
 ## Goal
-## Business Use Case
-## Data Exploration and Analysis
+The goal of this Power BI report was to help the pizza place figure out the revenue generated. The report includes interactive visuals and questions to guide the user through the selection process 
 
-Insights Generated:
-1. Total Revenue
+## Business Use Case
+The business need for this report was to provide a value-added service to potential customers of a ski agency website. By providing personalized recommendations, the website could improve user experience and increase the likelihood of bookings
+
+## Insights Generated
+> * Total Revenue
 2. Total Orders
 3. Number of Pizza Category
 4. Total Quantity
