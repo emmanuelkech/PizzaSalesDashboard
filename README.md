@@ -1,8 +1,8 @@
-# PizzaSalesDashboard
+# Pizza Sales Analysis
 
-Topic: Pizza Sales Dashboard <br/>
-Data Source:Quantum Analytics NG <br/>
-Data Visualization Tool: Microsoft Power BI <br/>
+## About This Project
+**Data Source:** *Quantum Analytics NG* <br/>
+**Data Visualization Tool:** *Microsoft Power BI* <br/>
 
 ## Goal
 ## Business Use Case
